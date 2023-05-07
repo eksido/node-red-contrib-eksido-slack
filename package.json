@@ -25,6 +25,6 @@
   "author": "Franz Malten Buemann <fmb@eksido.com> (https://eksido.com)",
   "license": "MIT",
   "dependencies": {
-    "@slack/client": "^4.11.0"
+    "@slack/client": "^5.0.2"
   }
 }
